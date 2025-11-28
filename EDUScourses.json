@@ -3794,7 +3794,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT6NationalMathematicsMr.IraguramanHaridharan",
+    "classCode": "IE6NationalMathematicsMr.IraguramanHaridharan",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "6",
@@ -3822,7 +3822,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT7NationalMathematicsMr.IraguramanHaridharan",
+    "classCode": "IE7NationalMathematicsMr.IraguramanHaridharan",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "7",
@@ -3850,7 +3850,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT8NationalMathematicsMr.IraguramanHaridharan",
+    "classCode": "IE8NationalMathematicsMr.IraguramanHaridharan",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "8",
@@ -3878,7 +3878,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT9NationalMathematicsMr.IraguramanHaridharan",
+    "classCode": "IE9NationalMathematicsMr.IraguramanHaridharan",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "9",
@@ -3906,7 +3906,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT10NationalMathematicsMr.IraguramanHaridharan",
+    "classCode": "IE10NationalMathematicsMr.IraguramanHaridharan",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "10",
@@ -3934,13 +3934,13 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT11NationalMathematicsMr.IraguramanHaridharan",
+    "classCode": "IE11NationalMathematicsMr.IraguramanHaridharan",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "11",
     "medium": "English",
     "teacherName": "Mr. Iraguraman Haridharan",
-    "courseTitle": "Grade 11 : Mathematics (English   Medium)",
+    "courseTitle": "Grade 11 : Mathematics (English Medium)",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
@@ -3962,7 +3962,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "ITA/LNationalMathematicsMr.IraguramanHaridharan",
+    "classCode": "IEA/LNationalMathematicsMr.IraguramanHaridharan",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "A/L",
@@ -5516,7 +5516,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT6NationalMathematicsMs.SubaharySenthilrajah",
+    "classCode": "IE6NationalMathematicsMs.SubaharySenthilrajah",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "6",
@@ -5544,7 +5544,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT7NationalMathematicsMs.SubaharySenthilrajah",
+    "classCode": "IE7NationalMathematicsMs.SubaharySenthilrajah",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "7",
@@ -5572,7 +5572,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT8NationalMathematicsMs.SubaharySenthilrajah",
+    "classCode": "IE8NationalMathematicsMs.SubaharySenthilrajah",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "8",
@@ -5600,7 +5600,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT9NationalMathematicsMs.SubaharySenthilrajah",
+    "classCode": "IE9NationalMathematicsMs.SubaharySenthilrajah",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "9",
@@ -5628,7 +5628,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT10NationalMathematicsMs.SubaharySenthilrajah",
+    "classCode": "IE10NationalMathematicsMs.SubaharySenthilrajah",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "10",
@@ -5656,7 +5656,7 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg"
   },
   {
-    "classCode": "IT11NationalMathematicsMs.SubaharySenthilrajah",
+    "classCode": "IE11NationalMathematicsMs.SubaharySenthilrajah",
     "classType": "INDIVIDUAL",
     "syllabus": "National",
     "grade": "11",
