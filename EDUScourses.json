@@ -12718,7 +12718,7 @@
     ]
   },
   {
-    "classCode": "GTA/LPhysics",
+    "classCode": "GT26A/LPhysics",
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "A/L",
@@ -12784,7 +12784,7 @@
     ]
   },
   {
-    "classCode": "GTA/LPhysics",
+    "classCode": "GT27A/LPhysics",
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "A/L",
