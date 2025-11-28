@@ -6062,6 +6062,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6071,7 +6084,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6083,7 +6097,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6095,7 +6110,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6132,6 +6148,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6141,7 +6170,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6153,7 +6183,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6165,7 +6196,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6198,6 +6230,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6207,7 +6252,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6219,7 +6265,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6231,7 +6278,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6268,6 +6316,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6277,7 +6338,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6289,7 +6351,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6301,7 +6364,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6334,6 +6398,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6343,7 +6420,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6355,7 +6433,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6367,7 +6446,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6400,6 +6480,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6409,7 +6502,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6421,7 +6515,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6433,7 +6528,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6462,6 +6558,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6471,7 +6580,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6483,7 +6593,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6495,7 +6606,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6528,6 +6640,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6537,7 +6662,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6549,7 +6675,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6561,7 +6688,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6590,6 +6718,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6599,7 +6740,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6611,7 +6753,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6623,7 +6766,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6652,6 +6796,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6661,7 +6818,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6673,7 +6831,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6685,7 +6844,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6718,6 +6878,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6727,7 +6900,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6739,7 +6913,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6751,7 +6926,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6784,6 +6960,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6793,7 +6982,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6805,7 +6995,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6817,7 +7008,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6846,6 +7038,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6855,7 +7060,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6867,7 +7073,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6879,7 +7086,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6912,6 +7120,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6921,7 +7142,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -6933,7 +7155,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -6945,7 +7168,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -6982,6 +7206,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -6991,7 +7228,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7003,7 +7241,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7015,7 +7254,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7052,6 +7292,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7061,7 +7314,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7073,7 +7327,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7085,7 +7340,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7114,6 +7370,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7123,7 +7392,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7135,7 +7405,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7147,7 +7418,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7180,6 +7452,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7189,7 +7474,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7201,7 +7487,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7213,7 +7500,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7246,6 +7534,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1500,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1500,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7255,7 +7556,8 @@
         "discountedAmount": {
           "amount": 5700,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7267,7 +7569,8 @@
         "discountedAmount": {
           "amount": 8100,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7279,7 +7582,8 @@
         "discountedAmount": {
           "amount": 15300,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7308,6 +7612,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1500,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1500,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7317,7 +7634,8 @@
         "discountedAmount": {
           "amount": 5700,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7329,7 +7647,8 @@
         "discountedAmount": {
           "amount": 8100,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7341,7 +7660,8 @@
         "discountedAmount": {
           "amount": 15300,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7374,6 +7694,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1500,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1500,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7383,7 +7716,8 @@
         "discountedAmount": {
           "amount": 5700,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7395,7 +7729,8 @@
         "discountedAmount": {
           "amount": 8100,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7407,7 +7742,8 @@
         "discountedAmount": {
           "amount": 15300,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7444,6 +7780,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1500,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1500,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7453,7 +7802,8 @@
         "discountedAmount": {
           "amount": 5700,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7465,7 +7815,8 @@
         "discountedAmount": {
           "amount": 8100,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7477,7 +7828,8 @@
         "discountedAmount": {
           "amount": 15300,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7510,6 +7862,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7519,7 +7884,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7531,7 +7897,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7543,7 +7910,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7576,6 +7944,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7585,7 +7966,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7597,7 +7979,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7609,7 +7992,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7638,6 +8022,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7647,7 +8044,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7659,7 +8057,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7671,7 +8070,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7708,6 +8108,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7717,7 +8130,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7729,7 +8143,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7741,7 +8156,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7774,6 +8190,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7783,7 +8212,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7795,7 +8225,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7807,7 +8238,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7836,6 +8268,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7845,7 +8290,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7857,7 +8303,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7869,7 +8316,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7902,6 +8350,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7911,7 +8372,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7923,7 +8385,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7935,7 +8398,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -7964,6 +8428,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -7973,7 +8450,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -7985,7 +8463,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -7997,7 +8476,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8034,6 +8514,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8043,7 +8536,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8055,7 +8549,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8067,7 +8562,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8104,6 +8600,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8113,7 +8622,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8125,7 +8635,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8137,7 +8648,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8170,6 +8682,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8179,7 +8704,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8191,7 +8717,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8203,7 +8730,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8232,6 +8760,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8241,7 +8782,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8253,7 +8795,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8265,7 +8808,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8298,6 +8842,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8307,7 +8864,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8319,7 +8877,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8331,7 +8890,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8368,6 +8928,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8377,7 +8950,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8389,7 +8963,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8401,7 +8976,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8430,6 +9006,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8439,7 +9028,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8451,7 +9041,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8463,7 +9054,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8500,6 +9092,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8509,7 +9114,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8521,7 +9127,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8533,7 +9140,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8566,6 +9174,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8575,7 +9196,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8587,7 +9209,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8599,7 +9222,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8628,6 +9252,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8637,7 +9274,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8649,7 +9287,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8661,7 +9300,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8694,6 +9334,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8703,7 +9356,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8715,7 +9369,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8727,7 +9382,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8764,6 +9420,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8773,7 +9442,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8785,7 +9455,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8797,7 +9468,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8826,6 +9498,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8835,7 +9520,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8847,7 +9533,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8859,7 +9546,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8888,6 +9576,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8897,7 +9598,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8909,7 +9611,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8921,7 +9624,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -8950,6 +9654,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -8959,7 +9676,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -8971,7 +9689,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -8983,7 +9702,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9020,6 +9740,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9029,7 +9762,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9041,7 +9775,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9053,7 +9788,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9090,6 +9826,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9099,7 +9848,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9111,7 +9861,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9123,7 +9874,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9160,6 +9912,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9169,7 +9934,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9181,7 +9947,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9193,7 +9960,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9226,6 +9994,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9235,7 +10016,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9247,7 +10029,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9259,7 +10042,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9296,6 +10080,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9305,7 +10102,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9317,7 +10115,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9329,7 +10128,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9358,6 +10158,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9367,7 +10180,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9379,7 +10193,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9391,7 +10206,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9420,6 +10236,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9429,7 +10258,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9441,7 +10271,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9453,7 +10284,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9482,6 +10314,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9491,7 +10336,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9503,7 +10349,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9515,7 +10362,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9552,6 +10400,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9561,7 +10422,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9573,7 +10435,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9585,7 +10448,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9614,6 +10478,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9623,7 +10500,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9635,7 +10513,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9647,7 +10526,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9680,6 +10560,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9689,7 +10582,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9701,7 +10595,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9713,7 +10608,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9746,6 +10642,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9755,7 +10664,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9767,7 +10677,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9779,7 +10690,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9808,6 +10720,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9817,7 +10742,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9829,7 +10755,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9841,7 +10768,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9870,6 +10798,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9879,7 +10820,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9891,7 +10833,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9903,7 +10846,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -9936,6 +10880,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -9945,7 +10902,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -9957,7 +10915,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -9969,7 +10928,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10002,6 +10962,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10011,7 +10984,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10023,7 +10997,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10035,7 +11010,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10068,6 +11044,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10077,7 +11066,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10089,7 +11079,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10101,7 +11092,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10134,6 +11126,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10143,7 +11148,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10155,7 +11161,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10167,7 +11174,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10204,6 +11212,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10213,7 +11234,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10225,7 +11247,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10237,7 +11260,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10270,6 +11294,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10279,7 +11316,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10291,7 +11329,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10303,7 +11342,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10332,6 +11372,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10341,7 +11394,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10353,7 +11407,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10365,7 +11420,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10394,6 +11450,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10403,7 +11472,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10415,7 +11485,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10427,7 +11498,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10456,6 +11528,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10465,7 +11550,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10477,7 +11563,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10489,7 +11576,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10522,6 +11610,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10531,7 +11632,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10543,7 +11645,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10555,7 +11658,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10592,6 +11696,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10601,7 +11718,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10613,7 +11731,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10625,7 +11744,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10658,6 +11778,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10667,7 +11800,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10679,7 +11813,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10691,7 +11826,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10728,6 +11864,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10737,7 +11886,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10749,7 +11899,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10761,7 +11912,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10794,6 +11946,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10803,7 +11968,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10815,7 +11981,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10827,7 +11994,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10856,6 +12024,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10865,7 +12046,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10877,7 +12059,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10889,7 +12072,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10926,6 +12110,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -10935,7 +12132,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -10947,7 +12145,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -10959,7 +12158,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -10992,6 +12192,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11001,7 +12214,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11013,7 +12227,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11025,7 +12240,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11054,6 +12270,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11063,7 +12292,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11075,7 +12305,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11087,7 +12318,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11116,6 +12348,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11125,7 +12370,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11137,7 +12383,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11149,7 +12396,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11186,6 +12434,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11195,7 +12456,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11207,7 +12469,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11219,7 +12482,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11252,6 +12516,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11261,7 +12538,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11273,7 +12551,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11285,7 +12564,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11314,6 +12594,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11323,7 +12616,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11335,7 +12629,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11347,7 +12642,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11380,6 +12676,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11389,7 +12698,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11401,7 +12711,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11413,7 +12724,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11442,6 +12754,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11451,7 +12776,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11463,7 +12789,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11475,7 +12802,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11504,6 +12832,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11513,7 +12854,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11525,7 +12867,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11537,7 +12880,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11570,6 +12914,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11579,7 +12936,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11591,7 +12949,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11603,7 +12962,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11640,6 +13000,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11649,7 +13022,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11661,7 +13035,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11673,7 +13048,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11710,6 +13086,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11719,7 +13108,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11731,7 +13121,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11743,7 +13134,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11776,6 +13168,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11785,7 +13190,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11797,7 +13203,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11809,7 +13216,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11838,6 +13246,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11847,7 +13268,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11859,7 +13281,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11871,7 +13294,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11904,6 +13328,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11913,7 +13350,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11925,7 +13363,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11937,7 +13376,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -11966,6 +13406,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -11975,7 +13428,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -11987,7 +13441,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -11999,7 +13454,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12032,6 +13488,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12041,7 +13510,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12053,7 +13523,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12065,7 +13536,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12094,6 +13566,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12103,7 +13588,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12115,7 +13601,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12127,7 +13614,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12156,6 +13644,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12165,7 +13666,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12177,7 +13679,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12189,7 +13692,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12222,6 +13726,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12231,7 +13748,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12243,7 +13761,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12255,7 +13774,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12288,6 +13808,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12297,7 +13830,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12309,7 +13843,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12321,7 +13856,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12358,6 +13894,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12367,7 +13916,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12379,7 +13929,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12391,7 +13942,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12424,6 +13976,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12433,7 +13998,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12445,7 +14011,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12457,7 +14024,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12490,6 +14058,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12499,7 +14080,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12511,7 +14093,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12523,7 +14106,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12556,6 +14140,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12565,7 +14162,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12577,7 +14175,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12589,7 +14188,8 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12618,6 +14218,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1000,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12627,7 +14240,8 @@
         "discountedAmount": {
           "amount": 3800,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12639,7 +14253,8 @@
         "discountedAmount": {
           "amount": 5400,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12651,7 +14266,8 @@
         "discountedAmount": {
           "amount": 10200,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
@@ -12680,6 +14296,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 1200,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12689,7 +14318,8 @@
         "discountedAmount": {
           "amount": 4560,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12701,7 +14331,8 @@
         "discountedAmount": {
           "amount": 6480,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12713,12 +14344,13 @@
         "discountedAmount": {
           "amount": 12240,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
   {
-    "classCode": "GT26A/LPhysics",
+    "classCode": "GTA/LPhysics",
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "A/L",
@@ -12746,6 +14378,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 2500,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 2500,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12755,7 +14400,8 @@
         "discountedAmount": {
           "amount": 9500,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12767,7 +14413,8 @@
         "discountedAmount": {
           "amount": 13500,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12779,18 +14426,19 @@
         "discountedAmount": {
           "amount": 25500,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   },
   {
-    "classCode": "GT27A/LPhysics",
+    "classCode": "GTA/LMaths",
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "A/L",
     "medium": "Tamil",
-    "teacherName": "Mr. Arunakirinathan Jeyasuthan",
-    "courseTitle": "Grade A/L (2027) : Physics (Tamil Medium)",
+    "teacherName": "Mr. Rajendran Suthakaran",
+    "courseTitle": "Grade A/L (2027) : Maths (Tamil Medium)",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
@@ -12816,6 +14464,19 @@
     ],
     "charges": [
       {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 2500,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 2500,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
         "planType": "4_Monthly",
         "monthCount": 4,
         "charge": {
@@ -12825,7 +14486,8 @@
         "discountedAmount": {
           "amount": 9500,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12837,7 +14499,8 @@
         "discountedAmount": {
           "amount": 13500,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12849,69 +14512,8 @@
         "discountedAmount": {
           "amount": 25500,
           "currency": "LKR"
-        }
-      }
-    ]
-  },
-  {
-    "classCode": "GTA/LMaths",
-    "classType": "GROUP",
-    "syllabus": "National",
-    "grade": "A/L",
-    "medium": "Tamil",
-    "teacherName": "Mr. Rajendran Suthakaran",
-    "courseTitle": "Grade A/L (2027) : Maths (Tamil Medium)",
-    "fee": {
-      "amount": 2500,
-      "currency": "LKR"
-    },
-    "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
-    "schedule": [
-      {
-        "day": "TUE",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "10:00 AM"
-      }
-    ],
-    "charges": [
-      {
-        "planType": "4_Monthly",
-        "monthCount": 4,
-        "charge": {
-          "amount": 10000,
-          "currency": "LKR"
         },
-        "discountedAmount": {
-          "amount": 9500,
-          "currency": "LKR"
-        }
-      },
-      {
-        "planType": "6_Monthly",
-        "monthCount": 6,
-        "charge": {
-          "amount": 15000,
-          "currency": "LKR"
-        },
-        "discountedAmount": {
-          "amount": 13500,
-          "currency": "LKR"
-        }
-      },
-      {
-        "planType": "12_Monthly",
-        "monthCount": 12,
-        "charge": {
-          "amount": 30000,
-          "currency": "LKR"
-        },
-        "discountedAmount": {
-          "amount": 25500,
-          "currency": "LKR"
-        }
+        "discount": 15
       }
     ]
   },
@@ -12930,15 +14532,28 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "10:00 AM"
+        "day": "TUE",
+        "time": "06:00 PM"
       },
       {
-        "day": "SUN",
-        "time": "12:00 PM"
+        "day": "MON",
+        "time": "10:00 AM"
       }
     ],
     "charges": [
+      {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 2500,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 2500,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
       {
         "planType": "4_Monthly",
         "monthCount": 4,
@@ -12949,7 +14564,8 @@
         "discountedAmount": {
           "amount": 9500,
           "currency": "LKR"
-        }
+        },
+        "discount": 5
       },
       {
         "planType": "6_Monthly",
@@ -12961,7 +14577,8 @@
         "discountedAmount": {
           "amount": 13500,
           "currency": "LKR"
-        }
+        },
+        "discount": 10
       },
       {
         "planType": "12_Monthly",
@@ -12973,7 +14590,8 @@
         "discountedAmount": {
           "amount": 25500,
           "currency": "LKR"
-        }
+        },
+        "discount": 15
       }
     ]
   }
