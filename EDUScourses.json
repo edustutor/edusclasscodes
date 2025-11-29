@@ -14,16 +14,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "07:00 PM"
+        "day": "FRI",
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -96,20 +88,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "05:00 PM"
-      },
-      {
         "day": "WED",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "03:00 PM"
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -182,16 +162,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "02:00 PM"
+        "day": "TUE",
+        "time": "5:00 PM"
       },
       {
         "day": "SAT",
-        "time": "09:00 AM"
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -265,19 +241,7 @@
     "schedule": [
       {
         "day": "TUE",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "THU",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "WED",
-        "time": "02:00 PM"
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -341,7 +305,7 @@
     "syllabus": "National",
     "grade": "3",
     "medium": "Tamil",
-    "teacherName": "Mr. Ananthavel Matthiruban",
+    "teacherName": "Mr. Ananthavel Mathiruban",
     "courseTitle": "Grade 3 :  Intelligence Quotient (Tamil Medium)",
     "fee": {
       "amount": 1200,
@@ -350,16 +314,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "11:00 AM"
+        "day": "WED",
+        "time": "6:15 PM"
       },
       {
-        "day": "TUE",
-        "time": "05:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "02:00 PM"
+        "day": "FRI",
+        "time": "6:15 PM"
       }
     ],
     "charges": [
@@ -432,16 +392,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "THU",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "11:00 AM"
+        "day": "WED",
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -515,11 +467,7 @@
     "schedule": [
       {
         "day": "SAT",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "10:00 AM"
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -592,16 +540,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "07:00 PM"
+        "day": "THU",
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -674,12 +614,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "12:00 PM"
+        "day": "WED",
+        "time": "7:30 PM"
       },
       {
-        "day": "TUE",
-        "time": "02:00 PM"
+        "day": "FRI",
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -752,12 +692,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "SUN",
-        "time": "02:00 PM"
+        "day": "TUE",
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -821,7 +757,7 @@
     "syllabus": "National",
     "grade": "4",
     "medium": "Tamil",
-    "teacherName": "Mr. Ananthavel Matthiruban",
+    "teacherName": "Mr. Ananthavel Mathiruban",
     "courseTitle": "Grade 4 : Intelligence Quotient (Tamil Medium)",
     "fee": {
       "amount": 1200,
@@ -831,15 +767,11 @@
     "schedule": [
       {
         "day": "MON",
-        "time": "04:00 PM"
+        "time": "6:30 PM"
       },
       {
-        "day": "TUE",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "09:00 AM"
+        "day": "SAT",
+        "time": "6:30 PM"
       }
     ],
     "charges": [
@@ -912,16 +844,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "09:00 AM"
-      },
-      {
-        "day": "FRI",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "06:00 PM"
+        "day": "WED",
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -994,12 +918,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "05:00 PM"
-      },
-      {
         "day": "FRI",
-        "time": "06:00 PM"
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -1073,15 +993,7 @@
     "schedule": [
       {
         "day": "WED",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "02:00 PM"
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -1154,20 +1066,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "03:00 PM"
+        "day": "WED",
+        "time": "6:15 PM"
       },
       {
         "day": "THU",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "TUE",
-        "time": "04:00 PM"
+        "time": "6:15 PM"
       }
     ],
     "charges": [
@@ -1241,19 +1145,7 @@
     "schedule": [
       {
         "day": "MON",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "THU",
-        "time": "05:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "09:00 AM"
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -1317,7 +1209,7 @@
     "syllabus": "National",
     "grade": "5",
     "medium": "Tamil",
-    "teacherName": "Mr. Ananthavel Matthiruban",
+    "teacherName": "Mr. Ananthavel Mathiruban",
     "courseTitle": "Grade 5 : Intelligence Quotient (Tamil Medium)",
     "fee": {
       "amount": 1200,
@@ -1326,12 +1218,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "04:00 PM"
+        "day": "MON",
+        "time": "6:30 PM"
       },
       {
-        "day": "FRI",
-        "time": "05:00 PM"
+        "day": "SAT",
+        "time": "6:30 PM"
       }
     ],
     "charges": [
@@ -1404,16 +1296,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "THU",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "12:00 PM"
+        "day": "WED",
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -1487,15 +1371,11 @@
     "schedule": [
       {
         "day": "TUE",
-        "time": "06:00 PM"
+        "time": "6:00 PM"
       },
       {
-        "day": "THU",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "03:00 PM"
+        "day": "FRI",
+        "time": "6:00 PM"
       }
     ],
     "charges": [
@@ -1568,12 +1448,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "04:00 PM"
+        "day": "TUE",
+        "time": "6:00 PM"
       },
       {
-        "day": "SAT",
-        "time": "12:00 PM"
+        "day": "FRI",
+        "time": "6:00 PM"
       }
     ],
     "charges": [
@@ -1646,16 +1526,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "09:00 AM"
+        "day": "TUE",
+        "time": "7:30 PM"
       },
       {
-        "day": "THU",
-        "time": "09:00 AM"
-      },
-      {
-        "day": "MON",
-        "time": "06:00 PM"
+        "day": "SUN",
+        "time": "6:00 PM"
       }
     ],
     "charges": [
@@ -1728,20 +1604,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "WED",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "THU",
-        "time": "04:00 PM"
-      },
-      {
         "day": "TUE",
-        "time": "02:00 PM"
+        "time": "7:30 PM"
+      },
+      {
+        "day": "SUN",
+        "time": "6:30 PM"
       }
     ],
     "charges": [
@@ -1815,15 +1683,11 @@
     "schedule": [
       {
         "day": "THU",
-        "time": "02:00 PM"
+        "time": "6:45 PM"
       },
       {
-        "day": "TUE",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "12:00 PM"
+        "day": "SAT",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -1897,15 +1761,11 @@
     "schedule": [
       {
         "day": "MON",
-        "time": "03:00 PM"
+        "time": "6:45 PM"
       },
       {
-        "day": "SAT",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "WED",
-        "time": "02:00 PM"
+        "day": "FRI",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -1978,12 +1838,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "06:00 PM"
+        "day": "TUE",
+        "time": "6:45 PM"
       },
       {
-        "day": "SUN",
-        "time": "03:00 PM"
+        "day": "FRI",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -2056,20 +1916,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "04:00 PM"
-      },
-      {
         "day": "TUE",
-        "time": "12:00 PM"
+        "time": "7:00 PM"
       },
       {
-        "day": "THU",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "10:00 AM"
+        "day": "SAT",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -2142,16 +1994,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "11:00 AM"
-      },
-      {
         "day": "MON",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "04:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -2224,12 +2068,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "MON",
-        "time": "04:00 PM"
+        "day": "SAT",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -2302,16 +2142,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "02:00 PM"
+        "day": "MON",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -2384,12 +2216,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "09:00 AM"
-      },
-      {
-        "day": "WED",
-        "time": "09:00 AM"
+        "day": "MON",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -2462,20 +2290,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "06:00 PM"
+        "day": "TUE",
+        "time": "8:00 PM"
       },
       {
         "day": "WED",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "SUN",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "11:00 AM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -2548,20 +2368,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "02:00 PM"
-      },
-      {
         "day": "TUE",
-        "time": "10:00 AM"
+        "time": "8:00 PM"
       },
       {
-        "day": "SUN",
-        "time": "12:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -2634,16 +2446,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "04:00 PM"
+        "day": "WED",
+        "time": "8:00 PM"
       },
       {
-        "day": "SUN",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "02:00 PM"
+        "day": "THU",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -2717,11 +2525,11 @@
     "schedule": [
       {
         "day": "WED",
-        "time": "07:00 PM"
+        "time": "8:00 PM"
       },
       {
-        "day": "FRI",
-        "time": "09:00 AM"
+        "day": "THU",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -2794,16 +2602,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "10:00 AM"
+        "day": "WED",
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -2876,20 +2676,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "10:00 AM"
-      },
-      {
         "day": "WED",
-        "time": "04:00 PM"
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -2962,12 +2750,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "09:00 AM"
+        "day": "MON",
+        "time": "8:00 PM"
       },
       {
-        "day": "MON",
-        "time": "06:00 PM"
+        "day": "TUE",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -3040,20 +2828,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "07:00 PM"
-      },
-      {
         "day": "MON",
-        "time": "06:00 PM"
+        "time": "8:00 PM"
+      },
+      {
+        "day": "TUE",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -3126,16 +2906,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "11:00 AM"
+        "day": "TUE",
+        "time": "8:00 PM"
       },
       {
         "day": "SAT",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "05:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -3208,12 +2984,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "10:00 AM"
+        "day": "TUE",
+        "time": "8:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "12:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -3286,16 +3062,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "THU",
-        "time": "07:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -3368,20 +3136,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "FRI",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "THU",
-        "time": "10:00 AM"
+        "day": "SAT",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -3454,12 +3210,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "02:00 PM"
+        "day": "FRI",
+        "time": "8:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "06:00 PM"
+        "day": "SAT",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -3532,12 +3288,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "06:00 PM"
+        "day": "FRI",
+        "time": "8:00 PM"
       },
       {
-        "day": "FRI",
-        "time": "09:00 AM"
+        "day": "SAT",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -3610,12 +3366,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "06:00 PM"
+        "day": "WED",
+        "time": "8:00 PM"
       },
       {
-        "day": "MON",
-        "time": "11:00 AM"
+        "day": "THU",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -3688,20 +3444,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
+        "day": "WED",
+        "time": "8:00 PM"
+      },
+      {
         "day": "THU",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "MON",
-        "time": "06:00 PM"
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -3774,20 +3522,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "09:00 AM"
-      },
-      {
         "day": "THU",
-        "time": "10:00 AM"
+        "time": "6:45 PM"
       },
       {
-        "day": "TUE",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "03:00 PM"
+        "day": "FRI",
+        "time": "6:30 PM"
       }
     ],
     "charges": [
@@ -3860,20 +3600,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "07:00 PM"
+        "day": "THU",
+        "time": "6:45 PM"
       },
       {
         "day": "FRI",
-        "time": "03:00 PM"
+        "time": "6:30 PM"
       }
     ],
     "charges": [
@@ -3946,16 +3678,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "SAT",
-        "time": "05:00 PM"
+        "day": "WED",
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -4029,19 +3753,7 @@
     "schedule": [
       {
         "day": "WED",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "THU",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "09:00 AM"
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -4114,12 +3826,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "04:00 PM"
+        "day": "TUE",
+        "time": "8:00 PM"
       },
       {
-        "day": "SUN",
-        "time": "09:00 AM"
+        "day": "WED",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -4192,12 +3904,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "12:00 PM"
+        "day": "TUE",
+        "time": "8:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "05:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -4270,12 +3982,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "05:00 PM"
+        "day": "WED",
+        "time": "8:00 PM"
       },
       {
         "day": "THU",
-        "time": "04:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -4348,20 +4060,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "03:00 PM"
+        "day": "WED",
+        "time": "8:00 PM"
       },
       {
         "day": "THU",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "05:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -4434,12 +4138,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "05:00 PM"
+        "day": "MON",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -4512,16 +4212,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "WED",
-        "time": "03:00 PM"
-      },
-      {
         "day": "SAT",
-        "time": "05:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -4594,16 +4286,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "10:00 AM"
+        "day": "MON",
+        "time": "6:45 PM"
       },
       {
-        "day": "TUE",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "WED",
-        "time": "03:00 PM"
+        "day": "SAT",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -4677,11 +4365,11 @@
     "schedule": [
       {
         "day": "MON",
-        "time": "05:00 PM"
+        "time": "6:45 PM"
       },
       {
-        "day": "FRI",
-        "time": "11:00 AM"
+        "day": "SAT",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -4754,12 +4442,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "09:00 AM"
+        "day": "THU",
+        "time": "8:00 PM"
       },
       {
-        "day": "SUN",
-        "time": "02:00 PM"
+        "day": "FRI",
+        "time": "6:30 PM"
       }
     ],
     "charges": [
@@ -4832,16 +4520,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "06:00 PM"
+        "day": "THU",
+        "time": "8:00 PM"
       },
       {
-        "day": "SAT",
-        "time": "09:00 AM"
-      },
-      {
-        "day": "WED",
-        "time": "12:00 PM"
+        "day": "FRI",
+        "time": "6:30 PM"
       }
     ],
     "charges": [
@@ -4914,16 +4598,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "05:00 PM"
+        "day": "TUE",
+        "time": "6:45 PM"
       },
       {
-        "day": "WED",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "SAT",
-        "time": "06:00 PM"
+        "day": "FRI",
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -4996,16 +4676,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "03:00 PM"
-      },
-      {
         "day": "TUE",
-        "time": "05:00 PM"
+        "time": "6:45 PM"
       },
       {
-        "day": "THU",
-        "time": "10:00 AM"
+        "day": "FRI",
+        "time": "7:30 PM"
       }
     ],
     "charges": [
@@ -5078,16 +4754,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "05:00 PM"
-      },
-      {
-        "day": "TUE",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "FRI",
-        "time": "04:00 PM"
+        "day": "WED",
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -5160,20 +4828,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "THU",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "SAT",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "TUE",
-        "time": "09:00 AM"
+        "day": "WED",
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -5246,16 +4902,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "03:00 PM"
+        "day": "WED",
+        "time": "8:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "11:00 AM"
+        "day": "THU",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -5328,12 +4980,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "03:00 PM"
+        "day": "WED",
+        "time": "8:00 PM"
       },
       {
-        "day": "SUN",
-        "time": "02:00 PM"
+        "day": "THU",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -5406,12 +5058,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "03:00 PM"
+        "day": "THU",
+        "time": "8:15 PM"
       },
       {
-        "day": "SAT",
-        "time": "10:00 AM"
+        "day": "FRI",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -5484,12 +5136,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "05:00 PM"
+        "day": "THU",
+        "time": "8:15 PM"
       },
       {
-        "day": "SAT",
-        "time": "11:00 AM"
+        "day": "FRI",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -5562,16 +5214,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "SUN",
-        "time": "06:00 PM"
+        "day": "TUE",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -5644,20 +5288,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "SUN",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "SAT",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "FRI",
-        "time": "05:00 PM"
+        "day": "TUE",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -5730,16 +5362,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "10:00 AM"
+        "day": "MON",
+        "time": "8:00 PM"
       },
       {
         "day": "TUE",
-        "time": "03:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -5812,20 +5440,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "04:00 PM"
-      },
-      {
         "day": "MON",
-        "time": "04:00 PM"
+        "time": "8:00 PM"
       },
       {
         "day": "TUE",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "WED",
-        "time": "04:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -5898,16 +5518,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
+        "day": "FRI",
+        "time": "8:00 PM"
+      },
+      {
         "day": "SAT",
-        "time": "09:00 AM"
-      },
-      {
-        "day": "SUN",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "WED",
-        "time": "10:00 AM"
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -5980,12 +5596,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "04:00 PM"
+        "day": "FRI",
+        "time": "8:00 PM"
       },
       {
-        "day": "FRI",
-        "time": "11:00 AM"
+        "day": "SAT",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -6059,19 +5675,11 @@
     "schedule": [
       {
         "day": "MON",
-        "time": "06:00 PM"
+        "time": "7:00 PM"
       },
       {
-        "day": "SUN",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "SAT",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "TUE",
-        "time": "02:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -6144,16 +5752,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "02:00 PM"
+        "day": "MON",
+        "time": "7:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "04:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "02:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -6226,12 +5830,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "SUN",
-        "time": "03:00 PM"
+        "day": "WED",
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -6304,12 +5904,8 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "02:00 PM"
-      },
-      {
         "day": "WED",
-        "time": "10:00 AM"
+        "time": "5:00 PM"
       }
     ],
     "charges": [
@@ -6382,20 +5978,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "03:00 PM"
-      },
-      {
         "day": "MON",
-        "time": "11:00 AM"
+        "time": "7:00 PM"
       },
       {
         "day": "THU",
-        "time": "06:00 PM"
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -6468,16 +6056,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "WED",
-        "time": "07:00 PM"
+        "day": "FRI",
+        "time": "7:00 PM"
       },
       {
         "day": "SAT",
-        "time": "06:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -6550,12 +6134,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "02:00 PM"
+        "day": "WED",
+        "time": "9:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "12:00 PM"
+        "day": "FRI",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -6628,16 +6212,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "09:00 AM"
-      },
-      {
-        "day": "TUE",
-        "time": "02:00 PM"
+        "day": "WED",
+        "time": "9:00 PM"
       },
       {
         "day": "THU",
-        "time": "10:00 AM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -6710,12 +6290,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "06:00 PM"
+        "day": "WED",
+        "time": "8:00 PM"
       },
       {
-        "day": "FRI",
-        "time": "03:00 PM"
+        "day": "SAT",
+        "time": "9:00 PM"
       }
     ],
     "charges": [
@@ -6788,12 +6368,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "06:00 PM"
+        "day": "WED",
+        "time": "8:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "06:00 PM"
+        "day": "SAT",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -6866,16 +6446,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "10:00 AM"
+        "day": "TUE",
+        "time": "8:00 PM"
       },
       {
-        "day": "THU",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "11:00 AM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -6948,20 +6524,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "07:00 PM"
-      },
-      {
         "day": "TUE",
-        "time": "11:00 AM"
+        "time": "8:00 PM"
       },
       {
-        "day": "SUN",
-        "time": "07:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "06:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -7035,19 +6603,11 @@
     "schedule": [
       {
         "day": "TUE",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "THU",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "WED",
-        "time": "06:00 PM"
+        "time": "9:00 PM"
       },
       {
         "day": "SUN",
-        "time": "10:00 AM"
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -7120,16 +6680,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "06:00 PM"
+        "day": "TUE",
+        "time": "9:00 PM"
       },
       {
-        "day": "WED",
-        "time": "09:00 AM"
-      },
-      {
-        "day": "MON",
-        "time": "10:00 AM"
+        "day": "SUN",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -7196,18 +6752,18 @@
     "teacherName": "Ms. Sumeerjitha Thangarajah",
     "courseTitle": "Grade 10 : English (English Medium)",
     "fee": {
-      "amount": 1000,
+      "amount": 1200,
       "currency": "LKR"
     },
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SAT",
-        "time": "10:00 AM"
+        "day": "MON",
+        "time": "8:15 PM"
       },
       {
-        "day": "MON",
-        "time": "07:00 PM"
+        "day": "TUE",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -7215,7 +6771,7 @@
         "planType": "1_Monthly",
         "monthCount": 1,
         "charge": {
-          "amount": 1000,
+          "amount": 1200,
           "currency": "LKR"
         },
         "discountedAmount": {
@@ -7280,16 +6836,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "06:00 PM"
+        "day": "MON",
+        "time": "8:15 PM"
       },
       {
         "day": "TUE",
-        "time": "10:00 AM"
-      },
-      {
-        "day": "WED",
-        "time": "12:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -7362,12 +6914,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "04:00 PM"
+        "day": "MON",
+        "time": "8:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "05:00 PM"
+        "day": "SAT",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -7440,16 +6992,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "02:00 PM"
-      },
-      {
         "day": "MON",
-        "time": "04:00 PM"
+        "time": "9:00 PM"
+      },
+      {
+        "day": "WED",
+        "time": "9:00 PM"
       }
     ],
     "charges": [
@@ -7522,12 +7070,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "11:00 AM"
+        "day": "MON",
+        "time": "6:45 PM"
       },
       {
-        "day": "TUE",
-        "time": "03:00 PM"
+        "day": "SAT",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -7600,12 +7148,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "07:00 PM"
+        "day": "TUE",
+        "time": "6:45 PM"
       },
       {
-        "day": "SUN",
-        "time": "02:00 PM"
+        "day": "FRI",
+        "time": "8:00 PM"
       }
     ],
     "charges": [
@@ -7678,16 +7226,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "06:00 PM"
+        "day": "TUE",
+        "time": "9:00 PM"
       },
       {
-        "day": "SAT",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "10:00 AM"
+        "day": "WED",
+        "time": "9:00 PM"
       }
     ],
     "charges": [
@@ -7760,16 +7304,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "SUN",
-        "time": "09:00 AM"
-      },
-      {
         "day": "MON",
-        "time": "03:00 PM"
+        "time": "8:00 PM"
       },
       {
-        "day": "FRI",
-        "time": "09:00 AM"
+        "day": "SAT",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -7843,19 +7383,11 @@
     "schedule": [
       {
         "day": "WED",
-        "time": "09:00 AM"
-      },
-      {
-        "day": "MON",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "SUN",
-        "time": "10:00 AM"
+        "time": "8:00 PM"
       },
       {
         "day": "THU",
-        "time": "09:00 AM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -7928,16 +7460,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
+        "day": "WED",
+        "time": "8:00 PM"
+      },
+      {
         "day": "THU",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "MON",
-        "time": "12:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "07:00 PM"
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -8010,16 +7538,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "FRI",
-        "time": "07:00 PM"
-      },
-      {
         "day": "THU",
-        "time": "03:00 PM"
+        "time": "8:30 PM"
       },
       {
-        "day": "TUE",
-        "time": "07:00 PM"
+        "day": "FRI",
+        "time": "9:00 PM"
       }
     ],
     "charges": [
@@ -8092,16 +7616,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
+        "day": "THU",
+        "time": "8:30 PM"
+      },
+      {
         "day": "FRI",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "SAT",
-        "time": "11:00 AM"
-      },
-      {
-        "day": "WED",
-        "time": "03:00 PM"
+        "time": "9:00 PM"
       }
     ],
     "charges": [
@@ -8168,18 +7688,18 @@
     "teacherName": "Ms. Sumeerjitha Thangarajah",
     "courseTitle": "Grade 11 : English (English Medium)",
     "fee": {
-      "amount": 1000,
+      "amount": 1200,
       "currency": "LKR"
     },
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "THU",
-        "time": "10:00 AM"
+        "day": "TUE",
+        "time": "8:00 PM"
       },
       {
-        "day": "TUE",
-        "time": "05:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -8187,7 +7707,7 @@
         "planType": "1_Monthly",
         "monthCount": 1,
         "charge": {
-          "amount": 1000,
+          "amount": 1200,
           "currency": "LKR"
         },
         "discountedAmount": {
@@ -8252,12 +7772,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "WED",
-        "time": "09:00 AM"
+        "day": "TUE",
+        "time": "8:00 PM"
       },
       {
-        "day": "MON",
-        "time": "03:00 PM"
+        "day": "WED",
+        "time": "6:45 PM"
       }
     ],
     "charges": [
@@ -8316,7 +7836,85 @@
     ]
   },
   {
-    "classCode": "GTA/LPhysics",
+    "classCode": "GT26A/LPhysics",
+    "classType": "GROUP",
+    "syllabus": "National",
+    "grade": "A/L",
+    "medium": "Tamil",
+    "teacherName": "Mr. Arunakirinathan Jeyasuthan",
+    "courseTitle": "Grade A/L (2026) : Physics (Tamil Medium)",
+    "fee": {
+      "amount": 2500,
+      "currency": "LKR"
+    },
+    "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
+    "schedule": [
+      {
+        "day": "WED",
+        "time": "7:30 PM"
+      },
+      {
+        "day": "FRI",
+        "time": "7:00 PM"
+      }
+    ],
+    "charges": [
+      {
+        "planType": "1_Monthly",
+        "monthCount": 1,
+        "charge": {
+          "amount": 2500,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 2500,
+          "currency": "LKR"
+        },
+        "discount": 0
+      },
+      {
+        "planType": "4_Monthly",
+        "monthCount": 4,
+        "charge": {
+          "amount": 10000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 9500,
+          "currency": "LKR"
+        },
+        "discount": 5
+      },
+      {
+        "planType": "6_Monthly",
+        "monthCount": 6,
+        "charge": {
+          "amount": 15000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 13500,
+          "currency": "LKR"
+        },
+        "discount": 10
+      },
+      {
+        "planType": "12_Monthly",
+        "monthCount": 12,
+        "charge": {
+          "amount": 30000,
+          "currency": "LKR"
+        },
+        "discountedAmount": {
+          "amount": 25500,
+          "currency": "LKR"
+        },
+        "discount": 15
+      }
+    ]
+  },
+  {
+    "classCode": "GT27A/LPhysics",
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "A/L",
@@ -8331,15 +7929,11 @@
     "schedule": [
       {
         "day": "MON",
-        "time": "09:00 AM"
+        "time": "7:00 PM"
       },
       {
-        "day": "WED",
-        "time": "03:00 PM"
-      },
-      {
-        "day": "THU",
-        "time": "12:00 PM"
+        "day": "FRI",
+        "time": "8:30 PM"
       }
     ],
     "charges": [
@@ -8398,12 +7992,12 @@
     ]
   },
   {
-    "classCode": "GTA/LMaths",
+    "classCode": "GT27A/LMaths",
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "A/L",
     "medium": "Tamil",
-    "teacherName": "Mr. Rajendran Suthakaran",
+    "teacherName": "Mr. Muzoufil Mohamed Muhthaseem",
     "courseTitle": "Grade A/L (2027) : Maths (Tamil Medium)",
     "fee": {
       "amount": 2500,
@@ -8412,20 +8006,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "MON",
-        "time": "07:00 PM"
+        "day": "TUE",
+        "time": "7:00 PM"
       },
       {
-        "day": "SAT",
-        "time": "02:00 PM"
-      },
-      {
-        "day": "WED",
-        "time": "06:00 PM"
-      },
-      {
-        "day": "FRI",
-        "time": "03:00 PM"
+        "day": "THU",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
@@ -8484,7 +8070,7 @@
     ]
   },
   {
-    "classCode": "GTA/LICT",
+    "classCode": "GT27A/LICT",
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "A/L",
@@ -8498,12 +8084,12 @@
     "imageUrl": "https://edus.lk/wp-content/uploads/2025/01/Thumb_Secondary_Tamil_9-1.jpg",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "06:00 PM"
+        "day": "WED",
+        "time": "8:30 PM"
       },
       {
-        "day": "MON",
-        "time": "10:00 AM"
+        "day": "FRI",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
