@@ -1,0 +1,23 @@
+name: Trigger EDUS Classes Deploy
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'EDUScourses.json'
+
+jobs:
+  trigger-vercel-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Notify Deployment Start
+        run: echo "EDUScourses.json changed, triggering Vercel deployment..."
+      
+      - name: Trigger Vercel Deploy Hook
+        run: |
+          curl -X POST "${{ secrets.DEPLOY_HOOK_URL }}"
+      
+      - name: Deployment Triggered
+        run: echo "Vercel deployment triggered successfully!"
