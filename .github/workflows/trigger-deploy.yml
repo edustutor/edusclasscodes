@@ -1,4 +1,4 @@
-name: Trigger EDUS Classes Deploy
+name: Trigger EDUS Classes Deploy and Revalidate
 
 on:
   push:
@@ -8,16 +8,29 @@ on:
       - 'EDUScourses.json'
 
 jobs:
-  trigger-vercel-deploy:
+  deploy-and-revalidate:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Notify Deployment Start
-        run: echo "EDUScourses.json changed, triggering Vercel deployment..."
-      
+      - name: Notify Start
+        run: echo "EDUScourses.json changed, triggering deployment and cache revalidation..."
+
       - name: Trigger Vercel Deploy Hook
         run: |
+          echo "Triggering Vercel deployment..."
           curl -X POST "${{ secrets.DEPLOY_HOOK_URL }}"
-      
-      - name: Deployment Triggered
-        run: echo "Vercel deployment triggered successfully!"
+
+      - name: Wait for Deployment
+        run: |
+          echo "Waiting 90 seconds for Vercel deployment to complete..."
+          sleep 90
+
+      - name: Revalidate Cache
+        run: |
+          echo "Revalidating cache..."
+          curl -X POST "https://classes.edustutor.com/api/revalidate" \
+            -H "Authorization: Bearer ${{ secrets.REVALIDATE_SECRET }}" \
+            -H "Content-Type: application/json"
+
+      - name: Complete
+        run: echo "Deployment triggered and cache revalidated successfully!"
