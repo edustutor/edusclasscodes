@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Notify Start
-        run: echo "EDUScourses.json changed, triggering deployment and cache revalidation..."
+        run: echo "EDUScourses.json changed, triggering deployment and cache revalidation...!"
 
       - name: Trigger Vercel Deploy Hook
         run: |
