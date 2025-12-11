@@ -1438,9 +1438,9 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "5",
-    "medium": "English",
+    "medium": "Tamil",
     "teacherName": "Mrs. Farhana Mohamed Haniffa",
-    "courseTitle": "Grade 5 : SpokenEnglish (English Medium)",
+    "courseTitle": "Grade 5 : SpokenEnglish (Tamil Medium)",
     "fee": {
       "amount": 1500,
       "currency": "LKR"
@@ -1594,7 +1594,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "5",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Mohammed Naleem Mohamed Saajith",
     "courseTitle": "Grade 5 : Robotics (Tamil Medium)",
     "fee": {
@@ -2206,7 +2206,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "6",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Ms. Luxana Sujan",
     "courseTitle": "Grade 6 : History (Tamil Medium)",
     "fee": {
@@ -2358,7 +2358,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "6",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Ms. Shabna Kaleelur Rahman",
     "courseTitle": "Grade 6 : Tamil (Tamil Medium)",
     "fee": {
@@ -2436,9 +2436,9 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "6",
-    "medium": "English",
+    "medium": "Tamil",
     "teacherName": "Ms. Fathima Afnaan",
-    "courseTitle": "Grade 6 : English (English Medium)",
+    "courseTitle": "Grade 6 : English (Tamil Medium)",
     "fee": {
       "amount": 1000,
       "currency": "LKR"
@@ -2666,7 +2666,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "6",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Chrishanth Nelson",
     "courseTitle": "Grade 6 : Mempory Power Technology (Tamil Medium)",
     "fee": {
@@ -3278,7 +3278,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "7",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Ms. Luxana Sujan",
     "courseTitle": "Grade 7 : History (Tamil Medium)",
     "fee": {
@@ -3434,7 +3434,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "7",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Ms. Manikkam Yathurshini",
     "courseTitle": "Grade 7 : Tamil (Tamil Medium)",
     "fee": {
@@ -3512,9 +3512,9 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "7",
-    "medium": "English",
+    "medium": "Tamil",
     "teacherName": "Ms. Sumeerjitha Thangarajah",
-    "courseTitle": "Grade 7 : English (English Medium)",
+    "courseTitle": "Grade 7 : English (Tamil Medium)",
     "fee": {
       "amount": 1000,
       "currency": "LKR"
@@ -3742,7 +3742,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "7",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Chrishanth Nelson",
     "courseTitle": "Grade 7 : Mempory Power Technology (Tamil Medium)",
     "fee": {
@@ -4354,7 +4354,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "8",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Jenil Jeyanthan",
     "courseTitle": "Grade 8 : History (Tamil Medium)",
     "fee": {
@@ -4510,7 +4510,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "8",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mrs. Kajananthini Varathalojan",
     "courseTitle": "Grade 8 : Tamil (Tamil Medium)",
     "fee": {
@@ -4588,9 +4588,9 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "8",
-    "medium": "English",
+    "medium": "Tamil",
     "teacherName": "Ms. Fathima Afnaan",
-    "courseTitle": "Grade 8 : English (English Medium)",
+    "courseTitle": "Grade 8 : English (Tamil Medium)",
     "fee": {
       "amount": 1000,
       "currency": "LKR"
@@ -4818,7 +4818,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "8",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Chrishanth Nelson",
     "courseTitle": "Grade 8 : Mempory Power Technology  (Tamil Medium)",
     "fee": {
@@ -5430,7 +5430,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "9",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Jenil Jeyanthan",
     "courseTitle": "Grade 9 : History (Tamil Medium)",
     "fee": {
@@ -5586,7 +5586,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "9",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mrs. Kajananthini Varathalojan",
     "courseTitle": "Grade 9 : Tamil (Tamil Medium)",
     "fee": {
@@ -5664,9 +5664,9 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "9",
-    "medium": "English",
+    "medium": "Tamil",
     "teacherName": "Ms. Fathima Afnaan",
-    "courseTitle": "Grade 9 : English (English Medium)",
+    "courseTitle": "Grade 9 : English (Tamil Medium)",
     "fee": {
       "amount": 1000,
       "currency": "LKR"
@@ -5894,7 +5894,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "9",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Chrishanth Nelson",
     "courseTitle": "Grade 9 : Mempory Power Technology  (Tamil Medium)",
     "fee": {
@@ -6514,7 +6514,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "10",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Jenil Jeyanthan",
     "courseTitle": "Grade 10 : History (Tamil Medium)",
     "fee": {
@@ -6670,7 +6670,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "10",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Niththyanantha Muththulingam",
     "courseTitle": "Grade 10 : Tamil (Tamil Medium)",
     "fee": {
@@ -6748,9 +6748,9 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "10",
-    "medium": "English",
+    "medium": "Tamil",
     "teacherName": "Ms. Sumeerjitha Thangarajah",
-    "courseTitle": "Grade 10 : English (English Medium)",
+    "courseTitle": "Grade 10 : English (Tamil Medium)",
     "fee": {
       "amount": 1200,
       "currency": "LKR"
@@ -7450,7 +7450,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "11",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Jenil Jeyanthan",
     "courseTitle": "Grade 11 : History (Tamil Medium)",
     "fee": {
@@ -7606,7 +7606,7 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "11",
-    "medium": "Tamil",
+    "medium": "English",
     "teacherName": "Mr. Niththyanantha Muththulingam",
     "courseTitle": "Grade 11 : Tamil (Tamil Medium)",
     "fee": {
@@ -7684,9 +7684,9 @@
     "classType": "GROUP",
     "syllabus": "National",
     "grade": "11",
-    "medium": "English",
+    "medium": "Tamil",
     "teacherName": "Ms. Sumeerjitha Thangarajah",
-    "courseTitle": "Grade 11 : English (English Medium)",
+    "courseTitle": "Grade 11 : English (Tamil Medium)",
     "fee": {
       "amount": 1200,
       "currency": "LKR"
