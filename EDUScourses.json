@@ -9904,7 +9904,7 @@
     "grade": "8",
     "medium": "English",
     "teacherName": "Mr. Umasuthan Ayushyaa",
-    "courseTitle": "Grade 8 : Physics ",
+    "courseTitle": "Grade 8 : Physics",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
@@ -10156,7 +10156,7 @@
     "grade": "7",
     "medium": "English",
     "teacherName": "Mr. Umasuthan Ayushyaa",
-    "courseTitle": "Grade 7 : Chemistry (English Medium)",
+    "courseTitle": "Grade 7 : Chemistry",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
@@ -11766,7 +11766,7 @@
     "grade": "1",
     "medium": "English",
     "teacherName": "Mrs. Fathima Mahudoon",
-    "courseTitle": "Grade 1 : Elocution (English Medium)",
+    "courseTitle": "Grade 1 : Elocution",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
@@ -11808,7 +11808,7 @@
     "grade": "2",
     "medium": "English",
     "teacherName": "Mrs. Fathima Mahudoon",
-    "courseTitle": "Grade 2 : Elocution (English Medium)",
+    "courseTitle": "Grade 2 : Elocution",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
@@ -13810,7 +13810,7 @@
     "grade": "11",
     "medium": "English",
     "teacherName": "Ms.  Subahary Senthilrajah",
-    "courseTitle": "Grade 11 : Mathematics (English   Medium)",
+    "courseTitle": "Grade 11 : Mathematics (English Medium)",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
@@ -13838,7 +13838,7 @@
     "grade": "6",
     "medium": "English",
     "teacherName": "Mrs. Balakrishnan Vidhurshika",
-    "courseTitle": "Grade 6 : Science (English Medium)",
+    "courseTitle": "Grade 6 : Science",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
@@ -13922,7 +13922,7 @@
     "grade": "8",
     "medium": "English",
     "teacherName": "Mrs. Balakrishnan Vidhurshika",
-    "courseTitle": "Grade 8 : Science (English Medium)",
+    "courseTitle": "Grade 8 : Science",
     "fee": {
       "amount": 2500,
       "currency": "LKR"
