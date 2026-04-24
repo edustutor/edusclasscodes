@@ -385,7 +385,7 @@
     "syllabus": "National",
     "grade": "4",
     "medium": "Tamil",
-    "teacherName": "Mrs. Ninthusha Kirubakaran",
+    "teacherName": "Ms. Kajani Puvanraj",
     "courseTitle": "Grade 4 : Maths (Tamil Medium)",
     "fee": {
       "amount": 1000,
@@ -459,7 +459,7 @@
     "syllabus": "National",
     "grade": "4",
     "medium": "Tamil",
-    "teacherName": "Mrs. Ninthusha Kirubakaran",
+    "teacherName": "Ms. Kajani Puvanraj",
     "courseTitle": "Grade 4 : ENV (Tamil Medium)",
     "fee": {
       "amount": 1000,
@@ -611,7 +611,7 @@
     "syllabus": "National",
     "grade": "4",
     "medium": "Tamil",
-    "teacherName": "Mrs. Ninthusha Kirubakaran",
+    "teacherName": "Ms.Kajani Puvanraj",
     "courseTitle": "Grade 4 : Tamil (Tamil Medium)",
     "fee": {
       "amount": 1000,
@@ -763,7 +763,7 @@
     "syllabus": "National",
     "grade": "5",
     "medium": "Tamil",
-    "teacherName": "Mrs. Ninthusha Kirubakaran",
+    "teacherName": "Mrs. Rajamanohary Jeyakantha",
     "courseTitle": "Grade 5 : Maths (Tamil Medium)",
     "fee": {
       "amount": 1000,
@@ -911,7 +911,7 @@
     "syllabus": "National",
     "grade": "5",
     "medium": "Tamil",
-    "teacherName": "Ms. Akshaya Indreshan ",
+    "teacherName": "Mrs. Fathima Nihadha ",
     "courseTitle": "Grade 5 : English (Tamil Medium)",
     "fee": {
       "amount": 1200,
@@ -989,7 +989,7 @@
     "syllabus": "National",
     "grade": "5",
     "medium": "Tamil",
-    "teacherName": "Mrs. Ninthusha Kirubakaran",
+    "teacherName": "Mrs. Rajamanohary Jeyakanthan",
     "courseTitle": "Grade 5 : Tamil (Tamil Medium)",
     "fee": {
       "amount": 1000,
@@ -2219,7 +2219,7 @@
     "syllabus": "National",
     "grade": "7",
     "medium": "Tamil",
-    "teacherName": "Mr. Shovenja Theivendiran",
+    "teacherName": "Ms. Piriyanka Periyathamby ",
     "courseTitle": "Grade 7 : Maths (Tamil Medium)",
     "fee": {
       "amount": 1000,
@@ -4079,7 +4079,7 @@
     "syllabus": "National",
     "grade": "9",
     "medium": "Tamil",
-    "teacherName": "Ms. Shovenja Theivendiran",
+    "teacherName": "Ms. Piriyanka Periyathamby",
     "courseTitle": "Grade 9 : Maths (Tamil Medium)",
     "fee": {
       "amount": 1000,
@@ -7581,7 +7581,7 @@
     "syllabus": "National",
     "grade": "A/L",
     "medium": "Tamil",
-    "teacherName": "Mr. Krishnakumar Nivedshanker ",
+    "teacherName": "Mr. Sivakadadcham Sharujan ",
     "courseTitle": "Grade A/L (2028) : Chemistry (Tamil Medium)",
     "fee": {
       "amount": 2500,
@@ -7590,12 +7590,12 @@
     "imageUrl": "https://pub-25daa8127a824bc58c903315ba000dc1.r2.dev/New%20_%20Thumb/Information%20and%20Communications%20Technology%20(ICT)%202.webp",
     "schedule": [
       {
-        "day": "TUE",
-        "time": "7:00 PM"
-      },
-      {
         "day": "FRI",
         "time": "9:00 PM"
+      },
+      {
+        "day": "SAT",
+        "time": "7:00 PM"
       }
     ],
     "charges": [
